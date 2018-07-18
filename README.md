@@ -1,1 +1,2 @@
-# ThreadsynchronisitationSumme
+# Threadsynchronisitation in Python: Summenberechnung
+
